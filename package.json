@@ -14,5 +14,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://あなたのユーザー名.github.io/baseusdc-dapp"
+  "homepage": "https://smartusdc.github.io/baseusdc-dapp"
 }
